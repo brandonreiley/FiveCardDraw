@@ -23,4 +23,5 @@ The standard 5 card poker hand strength applies. Listed in decreasing rank, thes
 
 # HOW TO RUN THE PROGRAM
 
-Included is a build script "run.sh". To run the program, open the "src" folder (Five Card Draw Program->src) in a command line and use ./run.sh to build and run the program. 
+Included is a build script "run.sh". To run the program, open the "src" folder (Five Card Draw Program->src) in a command line and use ./run.sh to build and run the program.
+It will first delete old/outdated .class files if any, then build and run the program. 
