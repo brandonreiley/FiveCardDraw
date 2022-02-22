@@ -1,4 +1,4 @@
-# FiveCardDraw
+# Five Card Draw
 
 Five-card draw is a variant of poker where each player receives a hand of 5 cards, is then allowed to swap any number of those cards for new ones, and then competes against each other based on the standard 5 card poker hand strength. Like the five-card draw variant, this program deals a hand of 5 cards, but unlike the five-card draw variant, no swapping will be allowed.
 
